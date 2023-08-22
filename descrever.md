@@ -1,4 +1,4 @@
-    1- TROCAR UMA LÂMPADA
+1- TROCAR UMA LÂMPADA
         1> Acender o interruptor para verificar se a lâmpada está queimada;
         2> Desligar o interruptor;
         3> Pegar a caixa da "nova lâmpada"
@@ -14,7 +14,7 @@
         13> Guardar a escada;
         14> Descartar a lâmpada queimada apropriadamente.
 
-    2- IR AO MERCADO
+2- IR AO MERCADO
         1> Abrir o armário;
         2> Anotar o que falta;
         3> Escolher que mercado vai;
@@ -31,7 +31,7 @@
         14> Pegar um carrinho de compras;
         15> Ir às compras.
 
-    3- ARRUMAR UMA MALA
+3- ARRUMAR UMA MALA
         1> Pegar a mala;
         2> Abrir a mala;
         3> Abrir o armário;
@@ -42,7 +42,7 @@
         8> Colocar produtos (higiene, medicamentos, Utensílios, Materiais, etc);
         9> Fechar a mala.
 
-    4- ESCOVAR OS DENTES
+4- ESCOVAR OS DENTES
         1> Pegar capa da escova;
         2> Abrir capa da escova;
         3> Pegar escova;
@@ -58,7 +58,7 @@
         13> Enxaguar a escova e a boca;
         14> Guardar a escova.
 
-    5- CHEGAR A ESCOLA
+5- CHEGAR A ESCOLA
         1> Pegar as chaves de casa e da moto;
         2> Colocar o capacete;
         3> Colocar a chave da moto na ignição;
@@ -80,7 +80,7 @@
         19> Entrar na sala de aula.
 
 
-    6- COMPRAR REMÉDIO
+6- COMPRAR REMÉDIO
         1> Abrir caixa de remédios;
         2> Verificar a falta/necessidade de um remédio;
         3> Pegar chaves de casa;
@@ -94,7 +94,7 @@
         11> Voltar para casa;
         12> Guardar o remédio na caixa de remédios.
 
-    7- ENCHER GARRAFA DE ÁGUA
+7- ENCHER GARRAFA DE ÁGUA
         1> Pegar garrafa de água;
         2> Levar até o filtro mais próximo;
         3> Abrir a garrafa;
@@ -105,7 +105,7 @@
         8> Fechar a garrafa;
         9> Retornar a garrafa.
 
-    8- AMARRAR OS SAPATOS
+8- AMARRAR OS SAPATOS
         1> Verificar que os sapatos estão desamarrados;
         2> Se agachar;
         3> Escolher qual sapato começar;
@@ -119,12 +119,36 @@
         11> Puxar essa ponta;
         12> Repetir o processo para o outro sapato do par.
     
-    9- UPLOAD DE ARQUIVO NO GITHUB, ATRAVÉS DO GITHUB DESKTOP
-        1>
+9- UPLOAD DE ARQUIVO NO GITHUB, ATRAVÉS DO GITHUB DESKTOP
+        1> Em GitHub Desktop, clicar em "File";
+        2> Clique em "Add local repository" se for adicionar um arquivo local, ou "Clone repository" se utilizar o link de um arquivo GitHub externo;
+            2.1> Se for clonar;
+                2.1.1> Selecionar a opção URL;
+                2.1.2> Colar URL do arquivo;
+                2.1.3> Selecionar o caminho em que o arquivo será colocado.
+            2.2> Se for adicionar um arquivo local;
+                2.2.1> Escolher o caminho correspondente ao arquivo;
+                2.2.2> Adicionar repositório "Add repository";
+                2.2.3> Caso o repositório ainda não seja existente;
+                    2.2.3.1> Clicar em "Create repository";
+                    2.2.3.2> Criar repositório;
+        3> Ao fazer mudanças, adicionar um título à alteração;
+        4> Clicar em "Commit to main";
+        5> Clicar em "Publish Repository";
+            5.1> Caso mais alterações sejam feitas, clicar em "Fetch Origin";
 
-    10- ENVIAR ANEXO DE ATIVIDADE NO CLASSROOM
-        1> Selecionar a atividade;
-        2> Clicar em "Adicionar ou criar";
-        3> Selecionar se a atividade estiver no Google Drive, em link ou um arquivo direto da máquina;
-        4> 
+10- ENVIAR ANEXO DE ATIVIDADE NO CLASSROOM
+        1> No classroom, selecionar a turma;
+        2> Selecionar a atividade;
+        3> Clicar em "+ Adicionar ou criar";
+        4> Selecionar a atividade no Google Drive, em link ou um arquivo direto da máquina;
+            4.1> Se for um arquivo do Google Drive;
+                4.1.1> Selecionar a atividade ou pasta correspondente a atividade;
+            4.2> Se for um link;
+                4.2.1> Colar o link correspondente a atividade;
+            4.3> Se for um arquivo;
+                4.3.1> Procurar o caminho correspondente a atividade;
+                4.3.2> Selecionar a atividade correspondente.
+        4> Selecionar a atividade;
+        5> Clicar em entregar.
      
